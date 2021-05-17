@@ -6,8 +6,7 @@ On this study, user based Collaborative Filtering approach is used to implement 
 On the app, there are two inputs, the first one is User ID. It is the identifier number of the user in the data set and the second input is the game which is not played by the related user and will be found out by the system.
 As output, the system decides whether that game should be recommanded to the user or not and it also calculates a predicted score.
 
-![Screenshot_2](https://user-images.githubusercontent.com/57035819/118548902-7d7e3300-b763-11eb-9609-501a5ab3289e.png) ![Screenshot_1](https://user-images.githubusercontent.com/57035819/118549361-07c69700-b764-11eb-82a6-c693b168924a.png)
-
+![Screenshot_2](https://user-images.githubusercontent.com/57035819/118548902-7d7e3300-b763-11eb-9609-501a5ab3289e.png)
 
 With that score, system's measurement is showed in the output as well, by using Root Mean Square Error method
 
