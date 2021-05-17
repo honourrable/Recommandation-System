@@ -8,9 +8,7 @@ As output, the system decides whether that game should be recommanded to the use
 
 ![Screenshot_2](https://user-images.githubusercontent.com/57035819/118548902-7d7e3300-b763-11eb-9609-501a5ab3289e.png)
 
-
-
-
+(<-- two spaces)(<-- two spaces)
 With that score, system's measurement is showed in the output as well, by using Root Mean Square Error method
 
 ![image](https://user-images.githubusercontent.com/57035819/118042063-47643c00-b37c-11eb-975d-600089581604.png)
